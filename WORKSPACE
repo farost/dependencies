@@ -92,3 +92,5 @@ crate_repositories()
 
 load("@vaticle_bazel_distribution//common:rules.bzl", "workspace_refs")
 workspace_refs(name = "vaticle_dependencies_workspace_refs")
+
+# Test
